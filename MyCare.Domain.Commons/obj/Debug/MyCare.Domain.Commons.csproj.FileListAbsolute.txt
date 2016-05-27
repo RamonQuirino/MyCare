@@ -1,0 +1,5 @@
+D:\workspace\Particular\MyCare\MyCare\MyCare.Domain.Commons\bin\Debug\MyCare.Domain.Commons.dll
+D:\workspace\Particular\MyCare\MyCare\MyCare.Domain.Commons\bin\Debug\MyCare.Domain.Commons.pdb
+D:\workspace\Particular\MyCare\MyCare\MyCare.Domain.Commons\obj\Debug\MyCare.Domain.Commons.csprojResolveAssemblyReference.cache
+D:\workspace\Particular\MyCare\MyCare\MyCare.Domain.Commons\obj\Debug\MyCare.Domain.Commons.dll
+D:\workspace\Particular\MyCare\MyCare\MyCare.Domain.Commons\obj\Debug\MyCare.Domain.Commons.pdb
